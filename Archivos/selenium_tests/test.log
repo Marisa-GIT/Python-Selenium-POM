@@ -1,0 +1,40 @@
+2025-05-27 10:48:32,676 - INFO - (message)s
+2025-05-27 10:48:37,454 - INFO - (message)s
+2025-05-27 10:48:37,512 - INFO - (message)s
+2025-05-27 10:48:37,544 - INFO - (message)s
+2025-05-27 10:48:39,369 - INFO - (message)s
+2025-05-27 10:48:44,293 - INFO - (message)s
+2025-05-27 10:48:44,427 - INFO - (message)s
+2025-05-27 10:48:44,518 - INFO - (message)s
+2025-05-27 10:48:44,672 - INFO - (message)s
+2025-05-27 10:48:44,854 - INFO - (message)s
+2025-05-27 10:49:55,371 - INFO - (message)s
+2025-05-27 10:49:59,736 - INFO - (message)s
+2025-05-27 10:49:59,771 - INFO - (message)s
+2025-05-27 10:49:59,803 - INFO - (message)s
+2025-05-27 10:50:01,571 - INFO - (message)s
+2025-05-27 10:50:05,917 - INFO - (message)s
+2025-05-27 10:50:06,069 - INFO - (message)s
+2025-05-27 10:50:06,201 - INFO - (message)s
+2025-05-27 10:50:06,352 - INFO - (message)s
+2025-05-27 10:50:06,560 - INFO - (message)s
+2025-05-27 10:54:12,119 - INFO - ====== WebDriver manager ======
+2025-05-27 10:54:17,168 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-27 10:54:17,203 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-27 10:54:17,238 - INFO - Driver [C:\Users\ThinkPad\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-27 10:54:19,049 - INFO - Iniciando la prueba de saucedemo
+2025-05-27 10:54:22,510 - INFO - Ingresando el usuario
+2025-05-27 10:54:23,579 - INFO - Ingresando la contraseña
+2025-05-27 10:54:23,693 - INFO - Iniciando sesion con el boton login
+2025-05-27 10:54:23,844 - INFO - Tomando captura de pantalla
+2025-05-27 10:54:24,043 - INFO - Finalizando la prueba
+2025-05-27 11:19:30,969 - INFO - ====== WebDriver manager ======
+2025-05-27 11:19:37,303 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-27 11:19:37,341 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-27 11:19:37,382 - INFO - Driver [C:\Users\ThinkPad\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-27 11:19:40,181 - INFO - Iniciando la prueba de saucedemo
+2025-05-27 11:19:46,261 - INFO - Ingresando el usuario
+2025-05-27 11:19:46,421 - INFO - Ingresando la contraseña
+2025-05-27 11:19:46,531 - INFO - Iniciando sesion con el boton login
+2025-05-27 11:19:46,710 - INFO - Tomando captura de pantalla
+2025-05-27 11:19:47,085 - INFO - Finalizando la prueba
